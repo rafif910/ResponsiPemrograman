@@ -1,0 +1,6 @@
+c:\users\my com\documents\visual studio 2015\Projects\ResponsiPemrograman2726\ResponsiPemrograman2726\bin\Debug\ResponsiPemrograman2726.exe.config
+c:\users\my com\documents\visual studio 2015\Projects\ResponsiPemrograman2726\ResponsiPemrograman2726\bin\Debug\ResponsiPemrograman2726.exe
+c:\users\my com\documents\visual studio 2015\Projects\ResponsiPemrograman2726\ResponsiPemrograman2726\bin\Debug\ResponsiPemrograman2726.pdb
+c:\users\my com\documents\visual studio 2015\Projects\ResponsiPemrograman2726\ResponsiPemrograman2726\obj\Debug\ResponsiPemrograman2726.csprojResolveAssemblyReference.cache
+c:\users\my com\documents\visual studio 2015\Projects\ResponsiPemrograman2726\ResponsiPemrograman2726\obj\Debug\ResponsiPemrograman2726.exe
+c:\users\my com\documents\visual studio 2015\Projects\ResponsiPemrograman2726\ResponsiPemrograman2726\obj\Debug\ResponsiPemrograman2726.pdb
